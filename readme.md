@@ -6,3 +6,6 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 ## Contáctame
 A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy buscando proyectos y oportunidades colaborativos donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos! 
 
+## Habilidades
+- Resolución de problemas: como desarrollador, me encanta resolver problemas complejos. Estoy constantemente explorando nuevas tecnologías y... 
+
