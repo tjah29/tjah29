@@ -19,3 +19,9 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 ## Aficiones
 
 - Baile: ...
+
+## Languages
+Esañol
+Portuguese
+Ingles
+
