@@ -7,7 +7,11 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy buscando proyectos y oportunidades colaborativos donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos! 
 
 ## Tecnologías
-- Back-End: Competente en Java, aporto un sólido conocimiento del desarrollo del lado del servidor...
-- Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y fáciles de usar... 
 
+- Back-End: Competente en Java, aporto un sólido conocimiento del desarrollo del lado del servidor...
+- Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y fáciles de usar.
+
+## Habilidades
+
+- Resolución de problemas: como desarrollador, me encanta resolver problemas complejos. Estoy constantemente explorando nuevas tecnolog
 
